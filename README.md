@@ -30,17 +30,6 @@
 
 ---
 
-## 🤖 Data Science Projects *(building)*
-
-### 🔜 Predictive Model — Coming Soon
-> Regression/Classification model on a real-world dataset  
-> **Tools:** Python · Scikit-learn · Pandas
-
-### 🔜 EDA Project — Coming Soon
-> Exploratory Data Analysis with visual storytelling  
-> **Tools:** Python · Seaborn · Matplotlib
-
----
 
 ## 🚀 Currently Working On
 - 🤖 First ML model (predicting real outcomes with Scikit-learn)
